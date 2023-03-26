@@ -3,4 +3,6 @@ app for melonLoader mods
 
 app for install mods for vrchat game
 
-download:
+
+
+download: https://github.com/denis-hik/melonMod/releases/tag/0.1
