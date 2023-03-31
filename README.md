@@ -11,4 +11,5 @@ app for install mods for vrchat game
 LemonLoader: https://github.com/LemonLoader/MelonLoader/releases
 
 code:https://github.com/denis-hik/LemonMod-Android
-download: https://github.com/denis-hik/melonMod/releases/tag/0.1
+
+download: https://github.com/denis-hik/melonMod/releases/tag/0.2
