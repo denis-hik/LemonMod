@@ -1,4 +1,4 @@
-# LemonMod
+# LemonMod by Denis Hik (unoffical)
 app for melonLoader mods
 
 app for install mods for vrchat game
